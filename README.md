@@ -1,8 +1,8 @@
 # 🚀 Email Splitter Pro
 
 ![Email Splitter Pro](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows)
-![Version](![Version](https://img.shields.io/github/v/release/CoderRasel/Email-Splitter-Pro-Releases?label=VERSION&color=success&style=flat-square)
-)
+![Version](https://img.shields.io/github/v/release/CoderRasel/Email-Splitter-Pro-Releases?label=VERSION&color=success&style=flat-square)
+
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
 **Email Splitter Pro** is a high-performance, multi-threaded Windows desktop application designed to process, filter, and split massive email datasets (1M+ records) with extreme speed and precision.
